@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\importinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\importinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\producttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\producttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\producttypedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\producttypedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\producttypedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\producttypedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\importinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\importinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\importinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\importinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\productvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\productvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\data\\api_servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\data\\api_servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512034403_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512032853_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512030047_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025956_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025300_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512024620_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421030703_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025310_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025049_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421024640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\WebPhone\\API_BanDienThoai\\API_BanDienThoai\\Models\\PaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\productvoucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\productvoucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\invoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\invoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\importinvoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\importinvoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134727_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134127_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|d:\\doan\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\qu\u1EA3n l\u00ED h\u1EC7 th\u1ED1ng s\u00E1ch\\2. source\\doan_bookstore\\api_server\\api_server\\api_server\\api_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F19FD645-35FA-4456-98E2-CC2B71FA1D5A}|API_Server\\API_Server.csproj|solutionrelative:api_server\\api_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\DetailCombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\PaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\PaymentMethodsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\DetailComboesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\ComboesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Product.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Product.cs",
+              "RelativeToolTip": "API_Server\\Models\\Product.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowDcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:15:03.821Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\ProductType.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ProductType.cs",
+              "RelativeToolTip": "API_Server\\Models\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:53:29.659Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductTypesController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductTypesController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ProductTypesController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductTypesController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ProductTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:03:40.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Program.cs",
+              "RelativeDocumentMoniker": "API_Server\\Program.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Program.cs",
+              "RelativeToolTip": "API_Server\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:47:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Server\\appsettings.json",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\appsettings.json",
+              "RelativeToolTip": "API_Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T03:12:10.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportInvoicesController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ImportInvoicesController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ImportInvoicesController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ImportInvoicesController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ImportInvoicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:05:28.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\InvoicesController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\InvoicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:06:06.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Invoice.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Invoice.cs",
+              "RelativeToolTip": "API_Server\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:56:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\InvoiceDetail.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\InvoiceDetail.cs",
+              "RelativeToolTip": "API_Server\\Models\\InvoiceDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:57:24.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductTypeDetailsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductTypeDetailsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ProductTypeDetailsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductTypeDetailsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ProductTypeDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:00.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Supplier.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Supplier.cs",
+              "RelativeToolTip": "API_Server\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:00:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImportInvoiceDetail.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ImportInvoiceDetail.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\ImportInvoiceDetail.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ImportInvoiceDetail.cs",
+              "RelativeToolTip": "API_Server\\Models\\ImportInvoiceDetail.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:59:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductTypeDetail.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ProductTypeDetail.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\ProductTypeDetail.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ProductTypeDetail.cs",
+              "RelativeToolTip": "API_Server\\Models\\ProductTypeDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:54:04.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportInvoice.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ImportInvoice.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\ImportInvoice.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ImportInvoice.cs",
+              "RelativeToolTip": "API_Server\\Models\\ImportInvoice.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:59:12.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductVoucher.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ProductVoucher.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\ProductVoucher.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\ProductVoucher.cs",
+              "RelativeToolTip": "API_Server\\Models\\ProductVoucher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:54:41.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Voucher.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Voucher.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Voucher.cs",
+              "RelativeToolTip": "API_Server\\Models\\Voucher.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:56:14.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Warehouse.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Warehouse.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Warehouse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:58:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:05:33.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\User.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\User.cs",
+              "RelativeToolTip": "API_Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:44:45.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "API_ServerContext.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Data\\API_ServerContext.cs",
+              "RelativeDocumentMoniker": "API_Server\\Data\\API_ServerContext.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Data\\API_ServerContext.cs",
+              "RelativeToolTip": "API_Server\\Data\\API_ServerContext.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAA8wEgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:55:44.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Slider.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Slider.cs",
+              "RelativeToolTip": "API_Server\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:01:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240512034403_init2.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512034403_init2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512034403_init2.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512034403_init2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512034403_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:44:03.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DetailCombo.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\DetailCombo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\DetailCombo.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\DetailCombo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\DetailCombo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:46:23.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240512032853_init1.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512032853_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512032853_init1.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512032853_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512032853_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:28:53.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240512030047_init1.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512030047_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512030047_init1.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512030047_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512030047_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:00:47.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240512025956_init1.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025956_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025956_init1.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025956_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025956_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:59:56.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:58:48.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240512025300_init1.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025300_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025300_init1.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025300_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512025300_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:53:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Image.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Image.cs",
+              "RelativeToolTip": "API_Server\\Models\\Image.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:55:41.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Comment.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Comment.cs",
+              "RelativeToolTip": "API_Server\\Models\\Comment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:42:22.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Rating.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Rating.cs",
+              "RelativeToolTip": "API_Server\\Models\\Rating.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:43:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Combo.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Combo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\Combo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:44:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\Cart.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\Cart.cs",
+              "RelativeToolTip": "API_Server\\Models\\Cart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:39:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240512024620_init2.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512024620_init2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512024620_init2.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512024620_init2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240512024620_init2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:46:20.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240421030703_init2.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421030703_init2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421030703_init2.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421030703_init2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421030703_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:07:03.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\PaymentMethod.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Models\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:57:54.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240421025310_init.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025310_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025310_init.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025310_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025310_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:53:10.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240421025049_init.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025049_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025049_init.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025049_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421025049_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:50:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240421024640_init.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421024640_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421024640_init.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421024640_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240421024640_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:46:41.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:59:12.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\LoginModel.cs",
+              "RelativeToolTip": "API_Server\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:53:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Workspace\\WebPhone\\API_BanDienThoai\\API_BanDienThoai\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\WebPhone\\API_BanDienThoai\\API_BanDienThoai\\Models\\PaymentMethod.cs",
+              "ToolTip": "D:\\Workspace\\WebPhone\\API_BanDienThoai\\API_BanDienThoai\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\WebPhone\\API_BanDienThoai\\API_BanDienThoai\\Models\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:39:06.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\SlidersController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\SlidersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:03:21.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\RatingsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\RatingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:02:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VouchersController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\VouchersController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\VouchersController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\VouchersController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\VouchersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:04:38.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductVouchersController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductVouchersController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ProductVouchersController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ProductVouchersController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ProductVouchersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:02:12.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PaymentMethodsController.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\PaymentMethodsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\PaymentMethodsController.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\PaymentMethodsController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\PaymentMethodsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:59:43.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InvoiceDetailsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\InvoiceDetailsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\InvoiceDetailsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\InvoiceDetailsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\InvoiceDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:58:09.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ImportInvoiceDetailsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ImportInvoiceDetailsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ImportInvoiceDetailsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ImportInvoiceDetailsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ImportInvoiceDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:56:56.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:55:30.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DetailComboesController.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\DetailComboesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\DetailComboesController.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\DetailComboesController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\DetailComboesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:55:01.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:54:30.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ComboesController.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\ComboesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\ComboesController.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\ComboesController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Controllers\\ComboesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:54:01.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "API_Server\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "API_Server\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:53:19.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\News.cs",
+              "RelativeDocumentMoniker": "API_Server\\Models\\News.cs",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\Models\\News.cs",
+              "RelativeToolTip": "API_Server\\Models\\News.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:02:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240414134727_Init.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134727_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134727_Init.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134727_Init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134727_Init.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:47:27.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240414134127_Init.cs",
+              "DocumentMoniker": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134127_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134127_Init.cs",
+              "ToolTip": "D:\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134127_Init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DoAnTotNghiep\\DoAn_BookStore\\API_Server\\API_Server\\Migrations\\20240414134127_Init.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:41:27.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "API_Server.csproj",
+              "DocumentMoniker": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\API_Server.csproj",
+              "RelativeDocumentMoniker": "API_Server\\API_Server.csproj",
+              "ToolTip": "D:\\DoAn\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\QU\u1EA2N L\u00CD H\u1EC6 TH\u1ED0NG S\u00C1CH\\2. SOURCE\\DoAn_BookStore\\API_Server\\API_Server\\API_Server\\API_Server.csproj",
+              "RelativeToolTip": "API_Server\\API_Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T14:35:41.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
